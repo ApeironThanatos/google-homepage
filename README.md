@@ -8,6 +8,7 @@ Pending:
   3) Change Sign In to button
   
   ~~4) Fix Button formatting~~
+  
   5) Add mobile layout
 
 Browsable at https://apeironthanatos.github.io/google-homepage/
